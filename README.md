@@ -1,6 +1,6 @@
   # Доработка конфигурации УТ 11.5 по тестовому заданию
   
-  Скачать файл выгрузки можно здесь [Выгрузка демо-базы](https://github.com/Bedrysheva/TasksInManagmentTrading/releases/tag/v1)
+  Скачать файл выгрузки можно здесь [Выгрузка доработанной демо-базы](https://github.com/Bedrysheva/TasksInManagmentTrading/releases/tag/v1)
 
   ### Комментарии
 
